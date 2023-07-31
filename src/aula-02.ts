@@ -1,3 +1,6 @@
 const x = 9;
 
-console.log('Resultado', x);
+const koiti = 'gay';
+
+console.log("Resultado", x);
+console.log("Resultado", koiti);
